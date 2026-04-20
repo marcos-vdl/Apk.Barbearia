@@ -2,7 +2,7 @@ Olá Esse projeto foi pensado e idealizado pra treinamento da linguagem React Na
 
 
 
-
+aqui esta o link do APK https://expo.dev/accounts/marcos.vdl/projects/BARBEARIA/builds/e5d56f4d-b8dc-4ede-a35c-acf93ce469d3
 
 
 
